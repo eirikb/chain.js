@@ -8,5 +8,5 @@ The original object is aggregated.
 Example
 --
 
-  chain(ctx).fillRect(10, 10, 10, 10).fillRect(30, 30, 10, 10); 
+    chain(ctx).fillRect(10, 10, 10, 10).fillRect(30, 30, 10, 10); 
 
